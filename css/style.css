@@ -1,33 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Clicker+Script&family=Jost:ital,wght@0,100..900;1,100..900&display=swap");
 
-color {
-  /* 🎨 Backgrounds */
-  --bg-main: #fdfdfd;
-  --bg-card: #ffffff;
-  --bg-section: #f3f4f6;
-
-  /* 🎨 Text */
-  --text-main: #1e1e1e;
-  --text-secondary: #666666;
-  --text-muted: #94a3b8;
-
-  /* 🎨 Primary / Buttons / Links */
-  --primary: #4f46e5;
-  --primary-hover: #4338ca;
-
-  /* 🎨 Accent / Success / Prices */
-  --accent: #10b981;
-  --accent-hover: #059669;
-
-  /* 🎨 Highlight / Alerts */
-  --highlight: #f97316;
-
-  /* 🎨 Extra (Stars, Icons) */
-  --star: #eab308;
-}
-
-/* 🎨 Reset */
 * {
   margin: 0;
   padding: 0;
